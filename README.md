@@ -6,8 +6,8 @@ Table of Contents
 =================
 
   * [Background](#background)
-  * [Deployment](#deployment)
   * [Objective](#objective)
+  * [Deployment](#deployment)
   * [Method](#method)
   * [References](#references)
   
