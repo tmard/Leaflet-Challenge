@@ -23,7 +23,7 @@ The United States Geological Survey(USGS), is responsible for providing scientif
 ## Deployment
 
 
-Please view the live file here:
+Please view the live file here: https://tmard.github.io/Leaflet-Challenge/
 
   
 
